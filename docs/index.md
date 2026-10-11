@@ -3,9 +3,9 @@ layout: default
 title: Hidden Berkeley
 ---
 
-# Hidden Berkeley
+# Finding Your Way Around Berkeley
 
-A starting guide to Berkeley places and services. Check each resource's official webpage for current access details.
+This guide introduces useful places and services for people new to Berkeley. Check each resource’s official webpage for current access details.
 
 <!-- Edit the heading and introduction above. The supplied loop below displays each row of the CSV. -->
 {% for resource in site.data.locations %}
